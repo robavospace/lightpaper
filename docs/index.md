@@ -10,11 +10,11 @@ Version: **`1.0`**
 </div>
 
 
-> **March 29, 2022**
+  > **March 29, 2022**
 
 By Alexander C. Ovabor, Founder, [RobavoX](https://www.robavo.xyz/)
 
-[Email](mailtoa@robavo.xyz) | 
+[Email](mailtoa@robavo.xyz) 
 
 © 2022 Robavo Expeditions, LLC.
 
