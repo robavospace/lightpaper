@@ -2,10 +2,6 @@
 
 Version: **`1.0`**
 
-<div align="center">
-	<img width="80" src="https://twitter.com/robavox/photo" />
-</div>
-
 <h1 align="center">Robavo Space Lightpaper</h1>
 
 <div align="center">
