@@ -6,7 +6,7 @@ Version: **`1.0`**
 
 <div align="center">
  <strong>
-   A decentralised Universal Basic Income platform based on personal currencies
+   “Robavo Space will provide much needed relief from high costs currently faced by many African entities who want access to outer space.”
  </strong>
 </div>
 
@@ -14,7 +14,7 @@ Version: **`1.0`**
 
 <div align="center">
   <!-- License -->
-  <a href="https://github.com/CirclesUBI/whitepaper/blob/main/LICENSE">
+  <a href="https://github.com/robavospace/lightpaper/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/CirclesUBI/whitepaper?style=flat-square&color=%23cc1e66" alt="License" height="18">
   </a>
   <!-- Discourse -->
