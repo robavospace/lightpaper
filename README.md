@@ -36,7 +36,7 @@ Copyright © 2022 Robavo Expeditions, LLC
     - [Up next](#up-next)
   - [Founding Team](#founding-team)
     - [What will differentiate Robavo Space Team?](#what-will-differentiate-robavo-space-team)
-  - [What is Next?](#what-is-next)
+  - [What is next?](#what-is-next)
 
 <!-- /TOC -->
 
