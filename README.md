@@ -1,12 +1,4 @@
----
-layout: post
-title: 'Robavo Space Lightpaper: Building the future of space in Africa'
-date: '2022-03-29 10:02:20 +0700'
-author: ovabor
-sitemap: false
-keywords: RF
-description: Building the future of space in Africa.
-published: true
+
 ---
 <p align="center"><img src="" alt="Robavo Space Lightpaper"></p>
 
