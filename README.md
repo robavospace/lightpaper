@@ -3,10 +3,10 @@
 Version: **`1.0`**
 
 <div align="center">
-	<img width="80" src="https://raw.githubusercontent.com/CirclesUBI/.github/main/assets/logo.svg" />
+	<img width="80" src="https://twitter.com/robavox/photo" />
 </div>
 
-<h1 align="center">Circles Whitepaper</h1>
+<h1 align="center">Robavo Space Lightpaper</h1>
 
 <div align="center">
  <strong>
