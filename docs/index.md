@@ -1,4 +1,3 @@
-***
 
 <h1 align="center">Robavo Space Lightpaper</h1>
 
@@ -121,7 +120,7 @@ There are many reasons why African countries should develop their own space prog
 
 There is no doubt that space exploration is important for human advancement. However, many people believe that space exploration should only be reserved for developed countries with the resources to do so. We disagree. We believe that everyone has a right to explore space, and that space can play an important role in socio-economic development for developing countries.
 
-One of the main reasons why people argue against space exploration for developing countries is because it is expensive. However, this argument fails to take into account the potential benefits of space exploration. By exploring and utilizing space products and services, African nations can improve their economic conditions and bring about positive social change .
+One of the main reasons why people argue against space exploration for developing countries is because it is expensive. However, this argument fails to take into account the potential benefits of space exploration. By exploring and utilizing space products and services, African nations can improve their economic conditions and bring about positive social change.
 
 Another common argument against space exploration for developing countries is that these nations lack the necessary technical expertise. Again, this argument fails to take into account all of the potential benefits of space exploration. For example, training programs in aerospace engineering can help develop essential skillsets that are transferable to other industries, such as aviation, defense, electric vehicles, and automotive. In addition, partnerships between developed and developing nations can help share technology and knowledge, which ultimately helps improve both parties involved.
 
