@@ -1,3 +1,4 @@
+***
 
 <h1 align="center">Robavo Space Lightpaper</h1>
 
@@ -26,7 +27,6 @@ Space is an important part of our lives. It has the potential to help us improve
 
 This would be a huge step forward for Africa. Access to space would allow African countries to conduct their own research, improve their infrastructure, and boost their economies.
 
-***
 
 **Contents**
 
@@ -53,6 +53,8 @@ This would be a huge step forward for Africa. Access to space would allow Africa
   - [What is next?](#what-is-next)
 
 <!-- /TOC -->
+
+***
 
 # Introduction
 
