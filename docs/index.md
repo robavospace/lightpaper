@@ -5,18 +5,22 @@ Version: **`1.0`**
 
 <div align="center">
  <strong>
-   Building the future of space in Africa.
+   Building The Future of Space In Africa.
  </strong>
 </div>
 
 
 > **March 29, 2022**
 
-By Alexander C. Ovabor, Founder, [RobavoX](https://www.robavo.xyz/) | [Email](mailtoa@robavo.xyz) | © 2022 Robavo Expeditions, LLC
+By Alexander C. Ovabor, Founder, [RobavoX](https://www.robavo.xyz/)
+
+[Email](mailtoa@robavo.xyz) | 
+
+© 2022 Robavo Expeditions, LLC.
 
 ***
 
-**Abstract**: 
+**Abstract** 
 
 Space is an important part of our lives. It has the potential to help us improve communication, weather forecasting, and even disaster relief. However, space is often seen as a luxury that only developed countries can afford. Robavo Space wants to change that. We have the ambition to make space more accessible and affordable for African countries. 
 
@@ -97,7 +101,7 @@ There is no question that a lack of accessible financing options is holding Afri
 
 ***
 
-### Solution
+## Solution
 
 As countries in Africa continue to explore and utilize space-derived services and products, it's important that they also develop their capabilities to access and use outer space. Robavo Space is leading the way in this area, with its commitment to developing African space capabilities.
 
@@ -111,7 +115,7 @@ There are many reasons why African countries should develop their own space prog
 
 ***
 
-### Concern
+## Concern
 
 There is no doubt that space exploration is important for human advancement. However, many people believe that space exploration should only be reserved for developed countries with the resources to do so. We disagree. We believe that everyone has a right to explore space, and that space can play an important role in socio-economic development for developing countries.
 
@@ -122,7 +126,7 @@ Another common argument against space exploration for developing countries is th
 
 ***
 
-### Why Africa needs Robavo Space?
+## Why Africa needs Robavo Space?
 
 One of our primary goals is to promote socio-economic development in Africa through the use of space technology. There are many applications for satellite imagery and other data collected from orbit, and we believe that African countries can benefit greatly from these resources. Some benefits of investing in space science and technology include:
 
@@ -143,19 +147,19 @@ Robavo Space also believes in promoting education and training opportunities for
 
 ***
 
-### How does Robavo Space help?
+## How does Robavo Space help?
 
 Robavo Space is leading the way, building space products and services that will enable Africa to achieve its spacefaring ambitions. We’re committed to making this possible through partnerships with African universities, governments, businesses and other organizations interested in space exploration and utilization for the benefit of all Africans. 
 
 ***
 
-### Design Principles
+## Design Principles
 
 Our design and development philosophy is focused on iterative design and development. We design fast, build fast, test fast, learn fast, iterate fast. These principles reflect the problems inherent in the current process of building space products and services today. Hence, we are prioritizing speed, cheaper cost, performance, reliability, and security. Our team has a strong belief that these principles will enable us to create better products and services in a shorter amount of time while maintaining quality.
 
 ***
 
-### Robavo Space Roadmap
+## Robavo Space Roadmap
 
 **What we have achieved?**
 
@@ -195,7 +199,7 @@ At Robavo Space we firmly believe that it's not just about having a good idea bu
 
 ***
 
-### What is next?
+## What is next?
 
 If you share our vision and have the ability to help us achieve it, we want you hear from you. You can learn more about Robavo Space Technologies Corporation by following us on GitHub or Twitter, or by visiting [Robavo Space.](https://robavo.space/)
 
