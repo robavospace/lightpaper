@@ -23,12 +23,12 @@ Copyright © 2022 Robavo Expeditions, LLC
 - [Problem](#problem)
 - [Solution](#solution)
 - [Concern](#concern)
-- [Why Africa needs Robavo Space?](#why-africa-needs-robavo-space-?)
-- [How does Robavo Space help?](#how-does-robavo-space-help-?)
+- [Why Africa needs Robavo Space?](#why-africa-needs-robavo-space)
+- [How does Robavo Space help?](#how-does-robavo-space-help)
 - [Design Principles](#design-principles)
 - [Robavo Space Roadmap](#robavo-space-roadmap)
 - [Founding Team](#founding-team)
-- [WHat is Next?](#what-is-next)
+- [What is Next?](#what-is-next)
 
 <!-- /TOC -->
 
