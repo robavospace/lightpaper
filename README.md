@@ -18,14 +18,14 @@ Copyright © 2022 Robavo Expeditions, LLC
 
 <!-- TOC -->
 
-- [Robavo Space Lightpaper](#robavo-space-light-paper)
+- [Robavo Space Lightpaper](#robavo-space-lightpaper)
 - [Introduction](#introduction)
 - [Problem](#problem)
 - [Solution](#what-is-the-wasp-strategy)
 - [Concern](#how-the-wax-platform-works)
-- [Why Africa needs Robavo Space?](#Why-africa-needs-robavo-space)
-- [How does Robavo Space help?](#How-does-robavo-space-help)
-- [Design Principles](#Design-principles)
+- [Why Africa needs Robavo Space?](#why-africa-needs-robavo-space-?)
+- [How does Robavo Space help?](#how-does-robavo-space-help-?)
+- [Design Principles](#design-principles)
 - [Robavo Space Roadmap](#robavo-space-roadmap)
 - [Founding Team](#founding-team)
 - [WHat's Next?](#what-is-next)
@@ -93,7 +93,7 @@ There are many reasons why African countries should develop their own space prog
 
 ***
 
-### Concerns
+### Concern
 
 There is no doubt that space exploration is important for human advancement. However, many people believe that space exploration should only be reserved for developed countries with the resources to do so. We disagree. We believe that everyone has a right to explore space, and that space can play an important role in socio-economic development for developing countries.
 
@@ -137,7 +137,7 @@ Our design and development philosophy is focused on iterative design and develop
 
 ***
 
-### Roadmap
+### Robavo Space Roadmap
 
 **What we have achieved?**
 
@@ -150,7 +150,7 @@ _September 2021:_ Partnership agreements process began; this consisted of trying
 _March 2022:_ Applied to participate in some accelerator programs in North America focused on the space industry.
 
 
-**Up Next**
+**Up next**
 
 _Q2 2022:_ Raise a pre-seed round whilst continuing research and customer discovery.
 
@@ -177,7 +177,7 @@ At Robavo Space we firmly believe that it's not just about having a good idea bu
 
 ***
 
-### What's Next?
+### What is next?
 
 If you share our vision and have the ability to help us achieve it, we want you hear from you. You can learn more about Robavo Space Technologies Corporation by following us on GitHub or Twitter, or by visiting [Robavo Space.](https://robavo.space/)
 
