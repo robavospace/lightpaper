@@ -14,6 +14,8 @@ Version: **`1.0`**
 
 By Alexander C. Ovabor, Founder, RobavoX | [Email](mailtoa@robavo.xyz) | Copyright © 2022 Robavo Expeditions, LLC
 
+***
+
 **Abstract**: 
 Space is an important part of our lives. It has the potential to help us improve communication, weather forecasting, and even disaster relief. However, space is often seen as a luxury that only developed countries can afford. Robavo Space wants to change that. We have the ambition to make space more accessible and affordable for African countries. 
 
