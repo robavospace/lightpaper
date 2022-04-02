@@ -17,6 +17,7 @@ By Alexander C. Ovabor, Founder, RobavoX | [Email](mailtoa@robavo.xyz) | Copyrig
 ***
 
 **Abstract**: 
+
 Space is an important part of our lives. It has the potential to help us improve communication, weather forecasting, and even disaster relief. However, space is often seen as a luxury that only developed countries can afford. Robavo Space wants to change that. We have the ambition to make space more accessible and affordable for African countries. 
 
 This would be a huge step forward for Africa. Access to space would allow African countries to conduct their own research, improve their infrastructure, and boost their economies.
