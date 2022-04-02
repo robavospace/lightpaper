@@ -19,16 +19,24 @@ Copyright © 2022 Robavo Expeditions, LLC
 <!-- TOC -->
 
 - [Robavo Space Lightpaper](#robavo-space-lightpaper)
-- [Introduction](#introduction)
-- [Problem](#problem)
-- [Solution](#solution)
-- [Concern](#concern)
-- [Why Africa needs Robavo Space?](#why-africa-needs-robavo-space)
-- [How does Robavo Space help?](#how-does-robavo-space-help)
-- [Design Principles](#design-principles)
-- [Robavo Space Roadmap](#robavo-space-roadmap)
-- [Founding Team](#founding-team)
-- [What is Next?](#what-is-next)
+  - [Introduction](#introduction)
+    - [What is driving this effort?](#what-is-driving-this-effort)
+    - [Why is now a great time](#why-is-now-a-great-time)
+  - [Problem](#problem)
+    - [Current Space Infrastructure](#current-space-infrastructure)
+    - [Current Space Funding](#current-space-funding)
+  - [Solution](#solution)
+      - [Why is this important?](#why-is-this-important)
+  - [Concern](#concern)
+  - [Why Africa needs Robavo Space?](#why-africa-needs-robavo-space)
+  - [How does Robavo Space help?](#how-does-robavo-space-help)
+  - [Design Principles](#design-principles)
+  - [Robavo Space Roadmap](#robavo-space-roadmap)
+    - [What we have achieved?](#what-we-have-achieved)
+    - [Up next](#up-next)
+  - [Founding Team](#founding-team)
+    - [What will differentiate Robavo Space Team?](#what-will-differentiate-robavo-space-team)
+  - [What is Next?](#what-is-next)
 
 <!-- /TOC -->
 
@@ -43,7 +51,7 @@ That’s why Robavo Space is working hard to develop the infrastructure necessar
 By doing this, African countries can take advantage of all that the global space economy has to offer while advancing their own social and economic development goals at the same time. We believe that this is essential for Africa’s future growth and prosperity.
 
 
-**What's driving this effort?**
+**What is driving this effort?**
 
 Africa has seen a recent surge in space industry activity, with many countries beginning to explore and utilize space-derived services and products because the African Union has identified space science and technology as a key area of focus for developing the continent. This is an important step, as space science and technology can help Africa to leapfrog developmental challenges and improve the quality of life for all Africans.
 
