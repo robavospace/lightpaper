@@ -21,14 +21,14 @@ Copyright © 2022 Robavo Expeditions, LLC
 - [Robavo Space Lightpaper](#robavo-space-lightpaper)
 - [Introduction](#introduction)
 - [Problem](#problem)
-- [Solution](#what-is-the-wasp-strategy)
-- [Concern](#how-the-wax-platform-works)
+- [Solution](#solution)
+- [Concern](#concern)
 - [Why Africa needs Robavo Space?](#why-africa-needs-robavo-space-?)
 - [How does Robavo Space help?](#how-does-robavo-space-help-?)
 - [Design Principles](#design-principles)
 - [Robavo Space Roadmap](#robavo-space-roadmap)
 - [Founding Team](#founding-team)
-- [WHat's Next?](#what-is-next)
+- [WHat is Next?](#what-is-next)
 
 <!-- /TOC -->
 
