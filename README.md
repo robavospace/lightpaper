@@ -1,3 +1,11 @@
+# Robavo Space Lightpaper
+
+Version: **`1..0`**
+
+_There is a possibility that this lightpaper will be updated. When there is an update, the version number will increase according to [Semantic Versioning](https://semver.org/)._
+
+
+
 <p align="center"><img src="" alt="Robavo Space Lightpaper"></p>
 
 <p align="center"><strong>Robavo Space Lightpaper Version 1.1</strong></p>
