@@ -22,10 +22,6 @@ Space is an important part of our lives. It has the potential to help us improve
 
 This would be a huge step forward for Africa. Access to space would allow African countries to conduct their own research, improve their infrastructure, and boost their economies.
 
-Robavo Space has already started making this dream a reality.
-
-Africa has a lot of potential, and with Robavo Space's help, it can reach new heights! Please support this cause so that all Africans can benefit from the opportunities that space provides
-
 ***
 
 **Contents**
