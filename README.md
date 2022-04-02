@@ -6,57 +6,19 @@ Version: **`1.0`**
 
 <div align="center">
  <strong>
-   “Robavo Space will provide much needed relief from high costs currently faced by many African entities who want access to outer space.”
+   Building the future of space in Africa.
  </strong>
 </div>
 
-<br />
-
-<div align="center">
-  <!-- License -->
-  <a href="https://github.com/robavospace/lightpaper/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/CirclesUBI/whitepaper?style=flat-square&color=%23cc1e66" alt="License" height="18">
-  </a>
-  <!-- Discourse -->
-  <a href="https://aboutcircles.com/">
-    <img src="https://img.shields.io/discourse/topics?server=https%3A%2F%2Faboutcircles.com%2F&style=flat-square&color=%23faad26" alt="chat" height="18"/>
-  </a>
-  <!-- Twitter -->
-  <a href="https://twitter.com/CirclesUBI">
-    <img src="https://img.shields.io/twitter/follow/circlesubi.svg?label=twitter&style=flat-square&color=%23f14d48" alt="Follow Circles" height="18">
-  </a>
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://chat.joincircles.net">
-      Chat
-    </a>
-    <span> | </span>
-    <a href="https://handbook.joincircles.net">
-      Handbook
-    </a>
-    <span> | </span>
-    <a href="https://github.com/CirclesUBI/.github/blob/main/CONTRIBUTING.md">
-      Contributing
-    </a>
-  </h3>
-</div>
-
-<br/>
-
-
-
-
-
-
-*** 
 
 > **March 29, 2022**
 
 By Alexander C. Ovabor, Founder, RobavoX | [Email](mailtoa@robavo.xyz)
 
-**Abstract**: Robavo Space has the ambition to make space more accessible and affordable for African countries.
+**Abstract**: 
+Space is an important part of our lives. It has the potential to help us improve communication, weather forecasting, and even disaster relief. However, space is often seen as a luxury that only developed countries can afford. Robavo Space wants to change that. We have the ambition to make space more accessible and affordable for African countries. 
+
+This would be a huge step forward for Africa. Access to space would allow African countries to conduct their own research, improve their infrastructure, and boost their economies.
 
 Copyright © 2022 Robavo Expeditions, LLC
 
