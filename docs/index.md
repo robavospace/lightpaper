@@ -12,7 +12,7 @@ Version: **`1.0`**
 
   > **March 29, 2022**
 
-By Alexander C. Ovabor, Founder, [RobavoX](https://www.robavo.xyz/)
+By Alexander C. Ovabor — Founder, [RobavoX](https://www.robavo.xyz/)
 
 [Email](mailtoa@robavo.xyz) 
 
@@ -74,11 +74,11 @@ Africa has seen a recent surge in space industry activity, with many countries b
 
 There are many reasons why now is a great time for the African space industry. Here are three key reasons:
 
-- **Rapid growth and expansion**– The Africa space industry is growing rapidly. In 2021, African countries budgeted $548.6 million for their space programs, which was a 9% increase from their 2020 budget.
+- **Rapid growth and expansion** — The Africa space industry is growing rapidly. In 2021, African countries budgeted $548.6 million for their space programs, which was a 9% increase from their 2020 budget.
 
-- **Diverse range of specializations** – The Africa space industry generated $7.37 billion in revenue in 2019 and is expected to generate more than $10 billion by 2024. 
+- **Diverse range of specializations** — The Africa space industry generated $7.37 billion in revenue in 2019 and is expected to generate more than $10 billion by 2024. 
 
-- **Young and vibrant sector** – 114 new satellite projects are currently under development by 20 African countries, which suggests that there is significant potential for growth in this sector.
+- **Young and vibrant sector** — 114 new satellite projects are currently under development by 20 African countries, which suggests that there is significant potential for growth in this sector.
 
 This presents a huge opportunity for indigenous African companies to emerge and become leaders in this rapidly-growing industry.
 
@@ -193,9 +193,9 @@ Robavo Space was founded in 2022 as a side project by two engineers. Both founde
 
 The history of space exploration has been marked by many successes as well as failures. What separates successful projects from unsuccessful ones is often attributed to three factors: leadership, funding, and technology. But we would like to suggest an additional factor that is often overlooked: people and culture. 
 
-At Robavo Space we pride ourselves on being a company with innovative people who have a drive to push boundaries. We also believe that having a positive attitude towards work and life sets us apart from other companies in this industry – it allows us not only survive but thrive during challenging times. For example, SpaceX, NASA, and Blue Origin are all in the business of space exploration. However, what differentiates SpaceX from NASA or SpaceX from Blue Origin is the people and culture. 
+At Robavo Space we pride ourselves on being a company with innovative people who have a drive to push boundaries. We also believe that having a positive attitude towards work and life sets us apart from other companies in this industry — it allows us not only survive but thrive during challenging times. For example, SpaceX, NASA, and Blue Origin are all in the business of space exploration. However, what differentiates SpaceX from NASA or SpaceX from Blue Origin is the people and culture. 
 
-At Robavo Space we firmly believe that it's not just about having a good idea but also having the right people behind it. Our company culture is based on three core values: innovation, teamwork, and respect. We strive to create an environment where everyone can feel comfortable sharing their ideas – no matter how crazy they may seem – because we know that's how progress is made. And respect for others isn't just lip service; it's something we live by every day. We're always respectful of our clients' time, resources, and opinions; after all, this is their project too.
+At Robavo Space we firmly believe that it's not just about having a good idea but also having the right people behind it. Our company culture is based on three core values: innovation, teamwork, and respect. We strive to create an environment where everyone can feel comfortable sharing their ideas — no matter how crazy they may seem — because we know that's how progress is made. And respect for others isn't just lip service; it's something we live by every day. We're always respectful of our clients' time, resources, and opinions; after all, this is their project too.
 
 ***
 
