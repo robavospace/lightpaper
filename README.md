@@ -1,8 +1,6 @@
-# Robavo Space Lightpaper
-
-Version: **`1.0`**
 
 <h1 align="center">Robavo Space Lightpaper</h1>
+Version: **`1.0`**
 
 <div align="center">
  <strong>
