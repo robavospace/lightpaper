@@ -1,6 +1,5 @@
-
 ---
-<p align="center"><img src="" alt="Robavo Space Lightpaper"></p>
+# <p align="center"><img src="" alt="Robavo Space Lightpaper"></p>
 
 <p align="center"><strong>Robavo Space Lightpaper Version 1.1</strong></p>
 
