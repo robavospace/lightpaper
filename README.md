@@ -12,6 +12,10 @@ published: true
 
 <p align="center"><strong>Robavo Space Lightpaper Version 1.1</strong></p>
 
+Alexander C. Ovabor [Email](mailtoa@robavo.xyz)
+
+***
+
 Robavo Space has the ambition to make space more accessible and affordable for African countries.
 
 ***
