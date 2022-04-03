@@ -22,9 +22,11 @@ By Alexander C. Ovabor — Founder, [RobavoX](https://www.robavo.xyz/)
 
 **Abstract** 
 
-Space is an important part of our lives. It has the potential to help us improve communication, weather forecasting, and even disaster relief. However, space is often seen as a luxury that only developed countries can afford. Robavo Space wants to change that. We have the ambition to make space more accessible and affordable for African countries. 
+There are many benefits to African countries having access to space. For example, space-based imagery can be used for mapping and land management. This would be especially useful in Africa, where the landscape is constantly changing due to natural disasters and development.
 
-This would be a huge step forward for Africa. Access to space would allow African countries to conduct their own research, improve their infrastructure, and boost their economies.
+Another important benefit is that African countries could use satellites for communication purposes. This would improve communication within Africa, as well as with the rest of the world. In addition, African countries could use satellites to monitor their weather patterns. This would help them predict natural disasters and better prepare for them.
+
+Lastly, access to space can boost a country's economy by creating new jobs in the aerospace industry. Robavo Space is committed to making this a reality for Africa. We have the ambition and the technical know-how necessary to make space more accessible and affordable for African countries.
 
 
 **Contents**
