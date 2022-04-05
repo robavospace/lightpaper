@@ -12,7 +12,7 @@ Version: **`1.0`**
 
 > **March 29, 2022**
 
-By Alexander C. Ovabor, Founder, [RobavoX](https://www.robavo.xyz/) | [Email](mailtoa@robavo.xyz) | © 2022 Robavo Expeditions, LLC
+By Alexander, Founder, [RobavoX](https://www.robavo.xyz/) | [Email](mailtoa@robavo.xyz) | © 2022 Robavo Expeditions, LLC
 
 ***
 
@@ -221,4 +221,4 @@ $ Africa must unite in order to realize its spacefaring ambitions for socio-econ
 
 ## Blockquote
 
-> “Robavo Space will provide much needed relief from high costs currently faced by many African entities who want access to outer space.” - Alexander C. Ovabor
+> “Robavo Space will provide much needed relief from high costs currently faced by many African entities who want access to outer space.” - Alexander
