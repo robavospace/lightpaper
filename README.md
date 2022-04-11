@@ -54,7 +54,21 @@ This would be a huge step forward for Africa. Access to space would allow Africa
 
 In Africa, spacefaring ambitions are socio-economic development goals. Robavo Space is working to develop the infrastructure necessary for African countries to participate in the global space economy and advance their social and economic development goals by developing homegrown technologies and collaborating with international partners.
 
-The benefits of space exploration are vast, including technological advances, increased knowledge about our planet and universe, economic opportunities, national and regional security advantages and more. However, many people don’t realize that these benefits extend to developing countries as well. In fact, advancements in technology from previous space missions have helped improve medical treatments (artificial limbs, cardiac implants, baby formula), increase crop yields, provide access to clean water sources, and more importantly create jobs locally.
+The benefits of space exploration are vast, including technological advances, increased knowledge about our planet and universe, economic opportunities, national and regional security advantages and more. However, many people don’t realize that these benefits extend to developing countries as well. In fact, there are many applications for satellite imagery and other data collected from orbit, and we believe that African countries can benefit greatly from these resources. 
+
+**Some benefits of investing in space science and technology include:**
+
+- Satellites can be used for mapping and surveying purposes, which is essential for land management and infrastructure planning.
+
+- Satellites can be used to improve communication networks throughout the continent, thus helping to boost economic growth rates and bridging the digital divide between rural and urban areas. 
+
+- Satellites can assist in monitoring environmental conditions (such as deforestation rates, air quality, etc) which can help policymakers develop effective policies aimed at promoting sustainable development.
+
+- Satellites equipped with sensors that measure various environmental parameters (such as wind speed, humidity levels, etc.) can provide valuable information about impending disasters (such as drought, floods and landslide), which can help emergency responders plan evacuation routes or deliver aid supplies effectively.
+
+- Satellites can help farmers improve crop yields through agricultural monitoring (monitor crops and track weather patterns, which can help farmers make better decisions about when to plant crops and how much water they need for irrigation.)
+
+- Regional satellite navigation systems can help people navigate their way around Africa more easily and precisely.
 
 That’s why Robavo Space is working hard to develop the infrastructure necessary for African countries to participate in the global space economy. This includes building partnerships with international organizations to share knowledge and technology transfer initiatives that will help African countries leapfrog developmental stages while developing homegrown technologies. 
 
@@ -124,22 +138,10 @@ Another common argument against space exploration for developing countries is th
 
 ### Why Africa needs Robavo Space?
 
-One of our primary goals is to promote socio-economic development in Africa through the use of space technology. There are many applications for satellite imagery and other data collected from orbit, and we believe that African countries can benefit greatly from these resources. Some benefits of investing in space science and technology include:
+The African continent is home to over 1.2 billion people, making it the second most populous continent in the world. Despite this, there are very few space-related programs and initiatives on the continent. Robavo Space is working to change that by promoting socio-economic development in Africa through space science and technology and by building relationships between the space and education sectors in Africa, the US, and beyond.
 
-- Satellites can be used for mapping and surveying purposes, which is essential for land management and infrastructure planning.
+One way we plan on achieving this goal is by inspiring young people of all backgrounds across Africa to fall in love with space and STEM through education and training opportunities. We plan to do this through Robavo Space Academy and Robavo Space Fellowship, which will offer scholarships as well as internship opportunities in aerospace engineering and related field at our facilities across Africa. We hope that through Robavo Space Academy and Robavo Space Fellowship, we can remove barriers for many Africans who are interested in pursuing a career in space science or technology but may not have the opportunity or resources available to them. 
 
-- Satellites can be used to improve communication networks throughout the continent, thus helping to boost economic growth rates and bridging the digital divide between rural and urban areas. 
-
-- Satellites can assist in monitoring environmental conditions (such as deforestation rates, air quality, etc) which can help policymakers develop effective policies aimed at promoting sustainable development.
-
-- Satellites equipped with sensors that measure various environmental parameters (such as wind speed, humidity levels, etc.) can provide valuable information about impending disasters (such as drought, floods and landslide), which can help emergency responders plan evacuation routes or deliver aid supplies effectively.
-
-- Satellites can help farmers improve crop yields through agricultural monitoring (monitor crops and track weather patterns, which can help farmers make better decisions about when to plant crops and how much water they need for irrigation.)
-
-- Regional satellite navigation systems can help people navigate their way around Africa more easily and precisely.
-
-
-Robavo Space also believes in promoting education and training opportunities for Africans interested in science, technology, engineering, and mathematics (STEM). We plan to do this through Robavo Space Academy and Robavo Space Fellowship, which will offer scholarships as well as internship opportunities in aerospace engineering at our facilities across  Africa. We hope that through education and exposure to real-world applications of STEM skillsets, more Africans will be inspired to pursue careers in these fields. This will ultimately lead to greater innovation on the continent, which is desperately needed if Africa is going to catch up with developed nations. 
 
 ***
 
