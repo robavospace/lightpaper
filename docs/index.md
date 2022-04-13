@@ -140,16 +140,16 @@ There is no doubt that space exploration is important for human advancement. How
 
 One of the main reasons why people argue against space exploration for developing countries is because it is expensive. However, this argument fails to take into account the potential benefits of space exploration. By exploring and utilizing space products and services, African nations can improve their economic conditions and bring about positive social change.
 
-Another common argument against space exploration for developing countries is that these nations lack the necessary technical expertise. Again, this argument fails to take into account all of the potential benefits of space exploration. For example, training programs in aerospace engineering can help develop essential skillsets that are transferable to other industries, such as aviation, defense, electric vehicles, and automotive. In addition, partnerships between developed and developing nations can help share technology and knowledge, which ultimately helps improve both parties involved.
+Another common argument against space exploration for developing countries is that these nations lack the necessary technical expertise. Again, this argument fails to take into account all of the potential benefits of space exploration. For example, training programs in aerospace engineering can help develop essential skill sets that are transferable to other industries, such as aviation, defense, electric vehicles, and automotive. In addition, partnerships between developed and developing nations can help share technology and knowledge, which ultimately helps improve both parties involved.
 
 
 ***
 
-## Why Africa needs Robavo Space?
+## Why does Africa need Robavo Space?
 
 The African continent is home to over 1.2 billion people, making it the second most populous continent in the world. Despite this, there are very few space-related programs and initiatives on the continent. Robavo Space is working to change that by promoting socio-economic development in Africa through space science and technology and by building relationships between the space and education sectors in Africa, the US, and beyond.
 
-One way we plan on achieving this goal is by inspiring young people of all backgrounds across Africa to fall in love with space and STEM through education and training opportunities. We plan to do this through Robavo Space Academy and Robavo Space Fellowship, which will offer scholarships as well as internship opportunities in aerospace engineering and related field at our facilities across Africa. We hope that through Robavo Space Academy and Robavo Space Fellowship, we can remove barriers for many Africans who are interested in pursuing a career in space science or technology but may not have the opportunity or resources available to them.
+One way we plan on achieving this goal is by inspiring young people of all backgrounds across Africa to fall in love with space and STEM through education and training opportunities. We plan to do this through Robavo Space Academy and Robavo Space Fellowship, which will offer scholarships as well as internship opportunities in aerospace engineering and related fields at our facilities across Africa. We hope that through Robavo Space Academy and Robavo Space Fellowship, we can remove barriers for many Africans who are interested in pursuing a career in space science or technology but may not have the opportunity or resources available to them.
 
 
 ***
@@ -168,7 +168,7 @@ Our design and development philosophy is focused on iterative design and develop
 
 ## Robavo Space Roadmap
 
-**What we have achieved?**
+**What have we achieved?**
 
 _March 2021:_ Research started
 
@@ -200,7 +200,7 @@ Robavo Space was founded in 2022 as a side project by two engineers. Both founde
 
 The history of space exploration has been marked by many successes as well as failures. What separates successful projects from unsuccessful ones is often attributed to three factors: leadership, funding, and technology. But we would like to suggest an additional factor that is often overlooked: people and culture. 
 
-At Robavo Space we pride ourselves on being a company with innovative people who have a drive to push boundaries. We also believe that having a positive attitude towards work and life sets us apart from other companies in this industry — it allows us not only survive but thrive during challenging times. For example, SpaceX, NASA, and Blue Origin are all in the business of space exploration. However, what differentiates SpaceX from NASA or SpaceX from Blue Origin is the people and culture. 
+At Robavo Space we pride ourselves on being a company with innovative people who have a drive to push boundaries. We also believe that having a positive attitude towards work and life sets us apart from other companies in this industry — it allows us not only to survive but thrive during challenging times. For example, SpaceX, NASA, and Blue Origin are all in the business of space exploration. However, what differentiates SpaceX from NASA or SpaceX from Blue Origin is the people and culture. 
 
 At Robavo Space we firmly believe that it's not just about having a good idea but also having the right people behind it. Our company culture is based on three core values: innovation, teamwork, and respect. We strive to create an environment where everyone can feel comfortable sharing their ideas — no matter how crazy they may seem — because we know that's how progress is made. And respect for others isn't just lip service; it's something we live by every day. We're always respectful of our clients' time, resources, and opinions; after all, this is their project too.
 
@@ -208,7 +208,7 @@ At Robavo Space we firmly believe that it's not just about having a good idea bu
 
 ## What is next?
 
-If you share our vision and have the ability to help us achieve it, we want you hear from you. You can learn more about Robavo Space Technologies Corporation by following us on GitHub or Twitter, or by visiting [Robavo Space.](https://robavo.space/)
+If you share our vision and have the ability to help us achieve it, we want to hear from you. You can learn more about Robavo Space Technologies Corporation by following us on GitHub or Twitter, or by visiting [Robavo Space.](https://robavo.space/)
 
 And when looking for potential team members to join our team, we are looking for two things: evidence of exceptional ability and positive energy. We believe that these two signals will set us apart from other companies in the space industry and allow us to achieve great things
 
