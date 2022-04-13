@@ -37,6 +37,7 @@ Lastly, access to space can boost a country's economy by creating new jobs in th
   - [Introduction](#introduction)
     - [What is driving this effort?](#what-is-driving-this-effort)
     - [Why is now a great time](#why-is-now-a-great-time)
+    - [Some benefits of investing in space science and technology include](#some-benefits-of-investing-in-space-science-and-technology-include)
   - [Problem](#problem)
     - [Current Space Infrastructure](#current-space-infrastructure)
     - [Current Space Funding](#current-space-funding)
