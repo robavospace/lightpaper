@@ -1,6 +1,8 @@
 
 <h1 align="center">Robavo Space Manifesto</h1>
 
+![Robavo Space Logo](https://user-images.githubusercontent.com/85099099/184567629-7cad109c-f968-45a3-a708-bbd2917b5f11.png)
+
 Version: **`1.1`**
 
 <div align="center">
@@ -17,8 +19,6 @@ By Alexander, Founder, [RobavoX](https://www.robavo.xyz/) | [Email](mailtoa@roba
 ***
 
 **Abstract**: 
-
-Abstract
 
 In African countries, there are many benefits to accessing space:
 
