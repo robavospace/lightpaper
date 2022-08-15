@@ -173,7 +173,7 @@ Our philosophy is simple yet powerful: we design fast, build fast, test fast, le
 
 ### Robavo Space Roadmap
 
-**What we have achieved?**
+What we have achieved?
 
 | Date        | Goal          |
 | ------------- | ------------- | 
@@ -182,13 +182,6 @@ Our philosophy is simple yet powerful: we design fast, build fast, test fast, le
 | September 2021     | Established partnership agreements with other businesses and government agencies in order to get the product off the ground quickly and build a team of experienced advisers/mentors in the beginning stages. 
 | March 2022      |  Applied for several accelerator programs in North America that are focused on the space industry. 
 
-March 2021: Research started.
-
-April 2021: Customer discovery across government and private sectors domestically and internationally to assess the needs of each sector. 
-
-September 2021: Established partnership agreements with other businesses and government agencies in order to get the product off the ground quickly and build a team of experienced advisers/mentors in the beginning stages.
-
-March 2022: Applied for several accelerator programs in North America that are focused on the space industry.
 
 What’s Up Next
 
