@@ -78,11 +78,11 @@ Recently, Africa has experienced a recent surge of activity in the space industr
 
 There are many reasons why now is a great time to develop the African space industry: 
 
-**Rapid growth and expansion:** The African space industry is growing rapidly. In 2021, African countries budgeted $548.6 million for their space programs, which was a 9% increase from their 2020 budget.
+**Rapid growth and expansion:** The African space industry is growing rapidly. [In 2021, African countries budgeted $548.6 million for their space programs](https://africanews.space/african-space-industry-revenue-to-surpass-usd-10-24-billion-by-2024-despite-covid-19-setback/), which was a 9% increase from their 2020 budget.
 
-**Diverse range of specializations:** The African space industry generated $7.37 billion in revenue in 2019 and is expected to generate more than $10 billion by 2024.
+**Diverse range of specializations:** The African space industry generated [$7.37 billion](https://africanews.space/african-space-industry-revenue-to-surpass-usd-10-24-billion-by-2024-despite-covid-19-setback/) in revenue in 2019 and is expected to generate more than $10 billion by 2024.
 
-**A young and vibrant sector:**  114 new satellite projects are currently under development in 20 African countries, which suggests that there is significant potential for growth in this sector.
+**A young and vibrant sector:**  [125 new satellite projects are currently under development in 23 African countries](https://qz.com/africa/2120368/south-africa-and-egypt-lead-the-way-in-africas-space-race/), which suggests that there is significant potential for growth in this sector.
 
 These investments present a huge opportunity for indigenous African companies to become leaders in this rapidly-growing industry.
 
@@ -191,10 +191,6 @@ What’s Up Next
 | Q4 2023      | Patent application and operation processes kick off.   
 | Q4 2023      | Product, Engineering, and Design. 
 | Q4 2023      | Engineering, Design, and Qualifications.   
-
-
-
-
 
 
 ***
