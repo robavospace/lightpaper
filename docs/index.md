@@ -71,7 +71,7 @@ By doing this, African countries can take advantage of everything that the globa
 
 **What is driving this effort?**
 
-Recently, Africa has experienced a recent surge of activity in the space industry as many countries begin to explore and utilize space-derived services and products. Further, the African Union has identified space science and technology[https://au.int/sites/default/files/documents/37434-doc-au_space_strategy_isbn-electronic.pdf] as a key area of focus for developing the continent, which can improve the quality of life for all Africans.
+Recently, Africa has experienced a recent surge of activity in the space industry as many countries begin to explore and utilize space-derived services and products. Further, [the African Union has identified space science and technology](https://au.int/sites/default/files/documents/37434-doc-au_space_strategy_isbn-electronic.pdf) as a key area of focus for developing the continent, which can improve the quality of life for all Africans.
 
 
 **Why is now a great time?**
