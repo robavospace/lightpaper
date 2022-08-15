@@ -15,7 +15,7 @@ Version: **`1.1`**
 
 > **March 29, 2022**
 
-By Alexander, Founder, [RobavoX](https://www.robavo.xyz/) | [Email](mailtoa@robavo.xyz) | © 2022 Robavo Expeditions, LLC
+By Alexander, Founder, [RobavoX](https://www.robavo.xyz/) | [Email](mailto:a@robavo.xyz) | © 2022 Robavo Expeditions, LLC
 
 ***
 
