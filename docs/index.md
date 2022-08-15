@@ -199,9 +199,10 @@ Q1 2023: Engineering, Design, and Qualifications.
 
 | Tables        | Are           |
 | ------------- | ------------- | 
-| col 3 is      | right-aligned |
-| col 2 is      | centered     
-| zebra stripes | are neat     
+| Q4 2023      | Raised a pre-seed round while continuing research and customer discovery |
+| Q4 2023      | Patent application and operation processes kick off.   
+| Q4 2023      | Product, Engineering, and Design. 
+| Q4 2023      | Engineering, Design, and Qualifications.   
 
 
 
