@@ -175,7 +175,12 @@ Our philosophy is simple yet powerful: we design fast, build fast, test fast, le
 
 **What we have achieved?**
 
-What have we achieved?
+| Date        | Goal          |
+| ------------- | ------------- | 
+| March 2021     | Research started |
+| April 2021     | Customer discovery across government and private sectors domestically and internationally to assess the needs of each sector.  
+| September 2021     | Established partnership agreements with other businesses and government agencies in order to get the product off the ground quickly and build a team of experienced advisers/mentors in the beginning stages. 
+| March 2022      |  Applied for several accelerator programs in North America that are focused on the space industry. 
 
 March 2021: Research started.
 
@@ -187,17 +192,8 @@ March 2022: Applied for several accelerator programs in North America that are f
 
 What’s Up Next
 
-Q2 2022: Raised a pre-seed round while continuing research and customer discovery.
 
-Q3 2022: Patent application and operation processes kick off.
-
-Q4 2022: Product, Engineering, and Design.
-
-Q1 2023: Engineering, Design, and Qualifications.
-
-
-
-| Tables        | Are           |
+| Date        | Goal          |
 | ------------- | ------------- | 
 | Q4 2023      | Raised a pre-seed round while continuing research and customer discovery |
 | Q4 2023      | Patent application and operation processes kick off.   
