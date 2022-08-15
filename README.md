@@ -7,7 +7,6 @@ Version: **`1.1`**
 <div align="center">
  <strong>
    Building the future of space in Africa.
-  ![Robavo Space Logo](https://user-images.githubusercontent.com/85099099/184567629-7cad109c-f968-45a3-a708-bbd2917b5f11.png)
  </strong>
 </div>
 
