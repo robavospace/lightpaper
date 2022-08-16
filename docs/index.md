@@ -125,6 +125,9 @@ As African countries continue to explore and utilize space-derived services and 
 
 ![Asset Pack (9)](https://user-images.githubusercontent.com/85099099/184929370-ce4b4062-9019-4580-84ac-bb2c4ea56c0c.png)
 ![Asset Pack (10)](https://user-images.githubusercontent.com/85099099/184929452-b6e2b056-5c57-4bcd-b7c2-0f8d5eced3ee.png)
+![Asset Pack (12)](https://user-images.githubusercontent.com/85099099/184929414-55acdcfb-fbe3-48e6-8651-934a128a2084.png)
+![Asset Pack (13)](https://user-images.githubusercontent.com/85099099/184929424-d05f5d5b-0975-4fdd-90f6-7a40d77996fc.png)
+![Asset Pack (11)](https://user-images.githubusercontent.com/85099099/184929434-b0dd48f0-a497-49ac-ab2a-0a8a5322c454.png)
 
 
 **Why is this important?**
