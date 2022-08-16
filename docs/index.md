@@ -124,6 +124,8 @@ Unquestionably, the greatest obstacle for most African space startups is financi
 As African countries continue to explore and utilize space-derived services and products, it's important that they also develop their capabilities to access and use outer space. Robavo Space is leading the way in this area. 
 
 ![Asset Pack (9)](https://user-images.githubusercontent.com/85099099/184929370-ce4b4062-9019-4580-84ac-bb2c4ea56c0c.png)
+![Asset Pack (10)](https://user-images.githubusercontent.com/85099099/184929452-b6e2b056-5c57-4bcd-b7c2-0f8d5eced3ee.png)
+
 
 **Why is this important?**
 
