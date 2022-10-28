@@ -108,7 +108,7 @@ These investments present a huge opportunity for indigenous African companies to
 
 Africa has a rich history of space exploration dating back to the early 1960s, when NASA built one of their Deep Space Network stations in Hartebeesthoek, South Africa. However, due to a lack of infrastructure and funding, Africa's space programs have been hampered by slow progress.
 
-https://user-images.githubusercontent.com/85099099/198749287-3ed6c901-9226-4ab5-81a1-feb3cbe99939.mp4
+[Robavo Space: The Future of Space in Africa](https://user-images.githubusercontent.com/85099099/198749287-3ed6c901-9226-4ab5-81a1-feb3cbe99939.mp4)
 
 
 **Current Space Infrastructure**
@@ -127,7 +127,7 @@ Unquestionably, the greatest obstacle for most African space startups is financi
 As African countries continue to explore and utilize space-derived services and products, it's important that they also develop their capabilities to access and use outer space. Robavo Space is leading the way in this area.
 
 
-https://user-images.githubusercontent.com/85099099/198747801-4c417b50-1b93-45b3-8437-101ea2c7df16.mp4
+[Creating Access to Space](https://user-images.githubusercontent.com/85099099/198747801-4c417b50-1b93-45b3-8437-101ea2c7df16.mp4)
 
 
 **Why is this important?**
