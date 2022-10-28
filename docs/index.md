@@ -23,11 +23,11 @@ By Alexander, Founder, [RobavoX](https://www.robavo.xyz/) | [Email](mailto:a@rob
 
 In African countries, there are many benefits to accessing space:
 
-Space-based imagery can be used for mapping and land management. This is especially useful in Africa, where the landscape is constantly changing due to natural disasters and development.
+- Space-based imagery can be used for mapping and land management. This is especially useful in Africa, where the landscape is constantly changing due to natural disasters and development.
 
-Satellites can be used to improve communication within Africa and with other parts of the world. They can also be used to monitor weather patterns, predict natural disasters, and better prepare for them.
+- Satellites can be used to improve communication within Africa and with other parts of the world. They can also be used to monitor weather patterns, predict natural disasters, and better prepare for them.
 
-Lastly, access to space can boost a country's economy by creating new jobs in the aerospace industry. Robavo Space is committed to making this a reality for Africa. We have the ambition and technical expertise required to improve the affordability and accessibility of space for African countries.
+- Lastly, access to space can boost a country's economy by creating new jobs in the aerospace industry. Robavo Space is committed to making this a reality for Africa. We have the ambition and technical expertise required to improve the affordability and accessibility of space for African countries.
 
 
 ***
@@ -78,27 +78,27 @@ Recently, Africa has experienced a recent surge of activity in the space industr
 
 There are many reasons why now is a great time to develop the African space industry: 
 
-**Rapid growth and expansion:** The African space industry is growing rapidly. [In 2021, African countries budgeted $548.6 million for their space programs](https://africanews.space/african-space-industry-revenue-to-surpass-usd-10-24-billion-by-2024-despite-covid-19-setback/), which was a 9% increase from their 2020 budget.
+1. **Rapid growth and expansion:** The African space industry is growing rapidly. [In 2021, African countries budgeted $548.6 million for their space programs](https://africanews.space/african-space-industry-revenue-to-surpass-usd-10-24-billion-by-2024-despite-covid-19-setback/), which was a 9% increase from their 2020 budget.
 
-**Diverse range of specializations:** The African space industry generated [$7.37 billion](https://africanews.space/african-space-industry-revenue-to-surpass-usd-10-24-billion-by-2024-despite-covid-19-setback/) in revenue in 2019 and is expected to generate more than $10 billion by 2024.
+2. **Diverse range of specializations:** The African space industry generated [$7.37 billion](https://africanews.space/african-space-industry-revenue-to-surpass-usd-10-24-billion-by-2024-despite-covid-19-setback/) in revenue in 2019 and is expected to generate more than $10 billion by 2024.
 
-**A young and vibrant sector:**  [125 new satellite projects are currently under development in 23 African countries](https://qz.com/africa/2120368/south-africa-and-egypt-lead-the-way-in-africas-space-race/), which suggests that there is significant potential for growth in this sector.
+3. **A young and vibrant sector:**  [125 new satellite projects are currently under development in 23 African countries](https://qz.com/africa/2120368/south-africa-and-egypt-lead-the-way-in-africas-space-race/), which suggests that there is significant potential for growth in this sector.
 
 These investments present a huge opportunity for indigenous African companies to become leaders in this rapidly-growing industry.
 
 **Some benefits of investing in space science and technology:**
 
-Satellites can be used for mapping and surveying purposes, which is essential for land management and infrastructure planning.
+- Satellites can be used for mapping and surveying purposes, which is essential for land management and infrastructure planning.
 
-Satellites can be used to improve communication networks throughout the continent, which will boost economic growth and bridge the digital divide between rural and urban areas.
+- Satellites can be used to improve communication networks throughout the continent, which will boost economic growth and bridge the digital divide between rural and urban areas.
 
-Satellites can monitor environmental conditions (such as deforestation rates and air quality), which can help governments develop effective policies to promote sustainable development.
+- Satellites can monitor environmental conditions (such as deforestation rates and air quality), which can help governments develop effective policies to promote sustainable development.
 
-Satellites equipped with sensors that measure various environmental parameters (such as wind speed and humidity levels) can provide valuable information about impending disasters (such as droughts, floods, and landslides), which can help emergency responders plan evacuation routes and deliver aid supplies effectively.
+- Satellites equipped with sensors that measure various environmental parameters (such as wind speed and humidity levels) can provide valuable information about impending disasters (such as droughts, floods, and landslides), which can help emergency responders plan evacuation routes and deliver aid supplies effectively.
 
-Satellites can be used for agricultural monitoring, to help farmers improve crop yields and make better decisions about when to plant crops and how much water they need for irrigation.
+- Satellites can be used for agricultural monitoring, to help farmers improve crop yields and make better decisions about when to plant crops and how much water they need for irrigation.
 
-Regional satellite navigation systems can help people navigate their way around Africa more easily and precisely.
+- Regional satellite navigation systems can help people navigate their way around Africa more easily and precisely.
 
 
 ***
@@ -106,6 +106,8 @@ Regional satellite navigation systems can help people navigate their way around 
 ## Problem
 
 Africa has a rich history of space exploration dating back to the early 1960s, when NASA built one of their Deep Space Network stations in Hartebeesthoek, South Africa. However, due to a lack of infrastructure and funding, Africa's space programs have been hampered by slow progress.
+
+https://user-images.githubusercontent.com/85099099/198749287-3ed6c901-9226-4ab5-81a1-feb3cbe99939.mp4
 
 
 **Current Space Infrastructure**
@@ -121,23 +123,38 @@ Unquestionably, the greatest obstacle for most African space startups is financi
 
 ### Solution
 
-As African countries continue to explore and utilize space-derived services and products, it's important that they also develop their capabilities to access and use outer space. Robavo Space is leading the way in this area. 
+As African countries continue to explore and utilize space-derived services and products, it's important that they also develop their capabilities to access and use outer space. Robavo Space is leading the way in this area.
 
-![Asset Pack (9)](https://user-images.githubusercontent.com/85099099/184929370-ce4b4062-9019-4580-84ac-bb2c4ea56c0c.png)
-![Asset Pack (13)](https://user-images.githubusercontent.com/85099099/184929424-d05f5d5b-0975-4fdd-90f6-7a40d77996fc.png)
-![Asset Pack (11)](https://user-images.githubusercontent.com/85099099/184929434-b0dd48f0-a497-49ac-ab2a-0a8a5322c454.png)
+
+https://user-images.githubusercontent.com/85099099/198747801-4c417b50-1b93-45b3-8437-101ea2c7df16.mp4
 
 
 **Why is this important?**
 
 There are many reasons why African countries should develop their own space programs:
 
-**Economic Development:** Access to outer space offers opportunities for economic development through satellite communications, earth observation, mining resources, tourism, and other activities.
+- **Economic Development:** Access to outer space offers opportunities for economic development through satellite communications, earth observation, mining resources, tourism, and other activities.
 
-**Capacity Building:** Developing indigenous capabilities in aerospace engineering and related disciplines helps to build human capital that can be used for other areas of economic growth and social development. It also strengthens institutions by creating new centers of excellence within universities and research institutes across Africa.
+- **Capacity Building:** Developing indigenous capabilities in aerospace engineering and related disciplines helps to build human capital that can be used for other areas of economic growth and social development. It also strengthens institutions by creating new centers of excellence within universities and research institutes across Africa.
 
 
 ***
+
+### Product
+![Landing Page](https://user-images.githubusercontent.com/85099099/198751467-c92f7d4a-291e-4acd-8655-6ec2991883a9.png)
+
+
+![Asset Pack (9)](https://user-images.githubusercontent.com/85099099/184929370-ce4b4062-9019-4580-84ac-bb2c4ea56c0c.png)
+
+![Asset Pack (13)](https://user-images.githubusercontent.com/85099099/184929424-d05f5d5b-0975-4fdd-90f6-7a40d77996fc.png)
+
+![Asset Pack (11)](https://user-images.githubusercontent.com/85099099/184929434-b0dd48f0-a497-49ac-ab2a-0a8a5322c454.png)
+
+![Robavo Space Academy Logo](https://user-images.githubusercontent.com/85099099/198749912-f6cd9fe1-872f-41bf-b069-c312c1f749b0.png)
+
+
+***
+
 
 ### Concerns
 
@@ -199,7 +216,7 @@ What’s Up Next
 
 ## Founding Team
 
-Robavo Space was started in 2021 as a side project by Alexander. Alexander is passionate about using space technology to improve the lives of people on Earth.
+Robavo Space was started in 2021 as a research side project by Alexander. Alexander is passionate about using space technology to improve the lives of people on Earth.
 
 
 **What will differentiate the Robavo Space Team?**
@@ -215,7 +232,7 @@ At Robavo Space, we firmly believe that it's not just about having a good idea, 
 
 ### What is next?
 
-If you share our vision and have the ability to help us achieve it, we want to hear from you. You can learn more about Robavo Space Technologies Corporation by following us on GitHub or Twitter or by visiting 55space.com.
+If you share our vision and have the ability to help us achieve it, we want to hear from you. You can learn more about Robavo Space Technologies Corporation by following us on [GitHub](https://github.com/robavospace) or [Twitter](https://twitter.com/robavospace?s=20&t=LpYdZhkQ9RA3IB5Fmo6JMw) or by visiting [Robavo.Space](https://www.robavo.space/) and reading our [Medium](https://medium.com/robavox) articles.
 
 We are also looking for potential team members who have exceptional ability and positive energy. We believe that these two signals will set us apart from other companies in the space industry and allow us to achieve great things.
 
